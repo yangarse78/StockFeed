@@ -1,0 +1,6 @@
+server:
+  port: 8091
+
+stock:
+   feed:
+      symbols: AAPL,AABA,BABA,LEA,LOB,MARA,MBUU
